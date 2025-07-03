@@ -28,6 +28,23 @@ As tabelas anuais de **2022, 2023 e 2024 foram unificadas** para criar uma visã
 
 ---
 
+### **Medidas DAX Essenciais**
+
+Para extrair o máximo valor dos dados e criar as visualizações dinâmicas, foram desenvolvidas diversas medidas DAX (Data Analysis Expressions) personalizadas. Essas medidas são a espinha dorsal da análise, permitindo cálculos complexos e insights precisos:
+
+* **Faturamento Total:** Soma do faturamento bruto.
+* **Nº de Clientes:** Contagem distinta de clientes.
+* **Percentual de Devoluções:** Proporção de itens devolvidos em relação ao total de vendas.
+* **Percentual de Vendas Físicas:** Proporção das vendas realizadas em lojas físicas.
+* **Percentual de Vendas Online:** Proporção das vendas realizadas online (se aplicável e inferido pela sua medida).
+* **Ticket Médio:** Valor médio por transação de venda.
+* **Total de Devoluções:** Quantidade total de itens devolvidos.
+* **Total de Vendas:** Quantidade total de itens vendidos.
+* **Vendas Físicas:** Total de vendas realizadas em lojas físicas.
+* **Vendas Online:** Total de vendas realizadas online (se aplicável e inferido pela sua medida).
+
+---
+
 ### **Explorando o Dashboard no Power BI**
 
 O dashboard é composto por abas intuitivas que permitem uma exploração detalhada do desempenho do varejo:
@@ -84,17 +101,7 @@ Esta aba aprofunda a análise, focando na inteligência preditiva e na otimizaç
 
 * **Baixe o arquivo .pbix:**
     Para explorar a modelagem de dados, transformações (Power Query) e medidas (DAX), você pode baixar o arquivo-fonte do Power BI Desktop.
-
-
----
-
-### **💻Tecnologias e Ferramentas Utilizadas**
-
-* **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), DAX.
-* **Microsoft Excel:** Fonte dos dados brutos.
-* **Conceitos de Banco de Dados:** Entendimento de unificação e criação de tabelas fatos/dimensões.
-* **Estatística:** Aplicação de conceitos para previsão e intervalos de confiança.
-
+  
 ---
 
 ### **:hammer_and_wrench:Habilidades Desenvolvidas no Projeto**
@@ -104,6 +111,7 @@ Este projeto consolidou e aprimorou um conjunto fundamental de competências em 
 * **Preparação e Qualidade de Dados:** Domínio em técnicas de limpeza e normalização de dados, incluindo anonimização de informações sensíveis.
 * **Engenharia de Dados (Básico):** Unificação de múltiplas fontes de dados (6 tabelas) e criação de uma tabela fato (`Cadastro de Vendas`) para análise.
 * **Modelagem de Dados:** Estruturação de dados para otimização de performance e facilidade de análise em ferramentas de BI.
+* **DAX (Data Analysis Expressions):** Criação de medidas e colunas calculadas para análises complexas e KPIs.
 * **Análise Exploratória de Dados (EDA):** Habilidade em realizar análises estatísticas descritivas, filtrar, segmentar, agrupar e agregar dados para identificar padrões e extrair *insights*.
 * **Criação de KPIs e Métricas:** Definição e cálculo de indicadores-chave de performance.
 * **Análise Preditiva (Básica):** Geração de previsões (com intervalo de confiança) para suporte à tomada de decisão de estoque e planejamento.
@@ -112,4 +120,10 @@ Este projeto consolidou e aprimorou um conjunto fundamental de competências em 
 
 ---
 
+### **Tecnologias e Ferramentas Utilizadas**
+
+* **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), **DAX**.
+* **Microsoft Excel:** Fonte dos dados brutos.
+* **Conceitos de Banco de Dados:** Entendimento de unificação e criação de tabelas fatos/dimensões.
+* **Estatística:** Aplicação de conceitos para previsão e intervalos de confiança.
 
