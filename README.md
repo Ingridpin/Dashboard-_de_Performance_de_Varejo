@@ -88,7 +88,7 @@ Esta aba aprofunda a análise, focando na inteligência preditiva e na otimizaç
 
 ---
 
-### **Tecnologias e Ferramentas Utilizadas**
+### **💻Tecnologias e Ferramentas Utilizadas**
 
 * **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), DAX.
 * **Microsoft Excel:** Fonte dos dados brutos.
@@ -97,7 +97,7 @@ Esta aba aprofunda a análise, focando na inteligência preditiva e na otimizaç
 
 ---
 
-### **Habilidades Desenvolvidas no Projeto**
+### **:hammer_and_wrench:Habilidades Desenvolvidas no Projeto**
 
 Este projeto consolidou e aprimorou um conjunto fundamental de competências em análise e tratamento de dados:
 
