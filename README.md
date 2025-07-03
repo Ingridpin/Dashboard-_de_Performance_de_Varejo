@@ -1,8 +1,3 @@
-Com certeza\! Criar um README cativante é fundamental para atrair a atenção para o seu projeto. Vamos montar um README detalhado, usando Markdown, que destaca o valor do seu dashboard de varejo multicontinental e o rigor da sua análise.
-
------
-
-```markdown
 # **Dashboard de Performance de Varejo Multicontinental**
 
 ## **Uma Visão 360º do Desempenho Global e Tendências Estratégicas**
