@@ -84,7 +84,7 @@ Esta aba aprofunda a análise, focando na inteligência preditiva e na otimizaç
 
 * **Baixe o arquivo .pbix:**
     Para explorar a modelagem de dados, transformações (Power Query) e medidas (DAX), você pode baixar o arquivo-fonte do Power BI Desktop.
-    [Link para o arquivo .pbix no seu repositório, `Dashboard _de_Performance_de_Varejo_Multicontinental.pbix`]
+
 
 ---
 
