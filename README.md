@@ -102,6 +102,17 @@ Esta aba aprofunda a análise, focando na inteligência preditiva e na otimizaç
 * **Baixe o arquivo .pbix:**
     Para explorar a modelagem de dados, transformações (Power Query) e medidas (DAX), você pode baixar o arquivo-fonte do Power BI Desktop.
   
+
+---
+
+### **:computer:Tecnologias e Ferramentas Utilizadas**
+
+* **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), **DAX**.
+* **Microsoft Excel:** Fonte dos dados brutos.
+* **Conceitos de Banco de Dados:** Entendimento de unificação e criação de tabelas fatos/dimensões.
+* **Estatística:** Aplicação de conceitos para previsão e intervalos de confiança.
+
+  
 ---
 
 ### **:hammer_and_wrench:Habilidades Desenvolvidas no Projeto**
@@ -118,12 +129,5 @@ Este projeto consolidou e aprimorou um conjunto fundamental de competências em 
 * **Visualização de Dados e Storytelling:** Proficiência na criação de gráficos informativos e dashboards intuitivos no **Power BI**, transformando dados complexos em uma narrativa clara e acionável.
 * **Pensamento Analítico e Estratégico:** Capacidade de interpretar dados e comunicar conclusões de forma eficaz, fornecendo *insights* estratégicos para as operações de varejo.
 
----
 
-### **Tecnologias e Ferramentas Utilizadas**
-
-* **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), **DAX**.
-* **Microsoft Excel:** Fonte dos dados brutos.
-* **Conceitos de Banco de Dados:** Entendimento de unificação e criação de tabelas fatos/dimensões.
-* **Estatística:** Aplicação de conceitos para previsão e intervalos de confiança.
 
