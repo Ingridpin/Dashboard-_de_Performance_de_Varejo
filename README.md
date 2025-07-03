@@ -14,6 +14,31 @@ Minha análise começou com a **normalização e anonimização dos dados de cli
 
 ---
 
+### **:computer:Tecnologias e Ferramentas Utilizadas**
+
+* **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), **DAX**.
+* **Microsoft Excel:** Fonte dos dados brutos.
+* **Conceitos de Banco de Dados:** Entendimento de unificação e criação de tabelas fatos/dimensões.
+* **Estatística:** Aplicação de conceitos para previsão e intervalos de confiança.
+
+---
+
+### **:hammer_and_wrench:Habilidades Desenvolvidas no Projeto**
+
+Este projeto consolidou e aprimorou um conjunto fundamental de competências em análise e tratamento de dados:
+
+* **Preparação e Qualidade de Dados:** Domínio em técnicas de limpeza e normalização de dados, incluindo anonimização de informações sensíveis.
+* **Engenharia de Dados (Básico):** Unificação de múltiplas fontes de dados (6 tabelas) e criação de uma tabela fato (`Cadastro de Vendas`) para análise.
+* **Modelagem de Dados:** Estruturação de dados para otimização de performance e facilidade de análise em ferramentas de BI.
+* **DAX (Data Analysis Expressions):** Criação de medidas e colunas calculadas para análises complexas e KPIs.
+* **Análise Exploratória de Dados (EDA):** Habilidade em realizar análises estatísticas descritivas, filtrar, segmentar, agrupar e agregar dados para identificar padrões e extrair *insights*.
+* **Criação de KPIs e Métricas:** Definição e cálculo de indicadores-chave de performance.
+* **Análise Preditiva (Básica):** Geração de previsões (com intervalo de confiança) para suporte à tomada de decisão de estoque e planejamento.
+* **Visualização de Dados e Storytelling:** Proficiência na criação de gráficos informativos e dashboards intuitivos no **Power BI**, transformando dados complexos em uma narrativa clara e acionável.
+* **Pensamento Analítico e Estratégico:** Capacidade de interpretar dados e comunicar conclusões de forma eficaz, fornecendo *insights* estratégicos para as operações de varejo.
+
+---
+
 ### **A Base da Análise: Conjunto de Dados & Engenharia de Dados**
 
 Para construir essa visão integrada, foram utilizadas e unificadas **seis tabelas distintas**:
@@ -103,31 +128,7 @@ Esta aba aprofunda a análise, focando na inteligência preditiva e na otimizaç
     Para explorar a modelagem de dados, transformações (Power Query) e medidas (DAX), você pode baixar o arquivo-fonte do Power BI Desktop.
   
 
----
 
-### **:computer:Tecnologias e Ferramentas Utilizadas**
-
-* **Power BI Desktop:** Desenvolvimento do dashboard, modelagem de dados, Power Query (ETL), **DAX**.
-* **Microsoft Excel:** Fonte dos dados brutos.
-* **Conceitos de Banco de Dados:** Entendimento de unificação e criação de tabelas fatos/dimensões.
-* **Estatística:** Aplicação de conceitos para previsão e intervalos de confiança.
-
-  
----
-
-### **:hammer_and_wrench:Habilidades Desenvolvidas no Projeto**
-
-Este projeto consolidou e aprimorou um conjunto fundamental de competências em análise e tratamento de dados:
-
-* **Preparação e Qualidade de Dados:** Domínio em técnicas de limpeza e normalização de dados, incluindo anonimização de informações sensíveis.
-* **Engenharia de Dados (Básico):** Unificação de múltiplas fontes de dados (6 tabelas) e criação de uma tabela fato (`Cadastro de Vendas`) para análise.
-* **Modelagem de Dados:** Estruturação de dados para otimização de performance e facilidade de análise em ferramentas de BI.
-* **DAX (Data Analysis Expressions):** Criação de medidas e colunas calculadas para análises complexas e KPIs.
-* **Análise Exploratória de Dados (EDA):** Habilidade em realizar análises estatísticas descritivas, filtrar, segmentar, agrupar e agregar dados para identificar padrões e extrair *insights*.
-* **Criação de KPIs e Métricas:** Definição e cálculo de indicadores-chave de performance.
-* **Análise Preditiva (Básica):** Geração de previsões (com intervalo de confiança) para suporte à tomada de decisão de estoque e planejamento.
-* **Visualização de Dados e Storytelling:** Proficiência na criação de gráficos informativos e dashboards intuitivos no **Power BI**, transformando dados complexos em uma narrativa clara e acionável.
-* **Pensamento Analítico e Estratégico:** Capacidade de interpretar dados e comunicar conclusões de forma eficaz, fornecendo *insights* estratégicos para as operações de varejo.
-
+> Desenvolvido por Ingrid Pinheiro
 
 
